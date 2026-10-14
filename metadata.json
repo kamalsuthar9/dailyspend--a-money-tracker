@@ -1,0 +1,5 @@
+{
+  "name": "DailySpend - Smart Monthly Expense Planner",
+  "description": "A smart expense tracker that uses AI to detect 'money leaks' like hidden subscriptions and repetitive small habits, helping you save more effectively.",
+  "requestFramePermissions": []
+}
